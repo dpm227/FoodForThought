@@ -1,4 +1,9 @@
-# Mobile Game Programming for Fun and (non)Profit
+### FOOD FOR THOUGHT
+Demo here:
+<https://www.cse.lehigh.edu/~spear/eng5_2023/engr_005_fl_2023_N/>
+Developed in Introduction to Engineering Practice using Typescript, UNIX, and VS Code
+
+## Mobile Game Programming for Fun and (non)Profit
 
 This repository holds a copy of the "Entity-Component-System" (ECS) version of
 the JetLag game development framework.  It is intended for use in student
@@ -11,18 +16,6 @@ install` to fetch all of the supporting code for JetLag.  Once you have done
 that, you can run `npm start` to compile your code.  JetLag uses `esbuild` for
 compilation, so every time you make a change, the code will recompile.  To test
 your game, open a browser and navigate to <http://localhost:4040>.
-
-To develop a game, we recommend that you start by reading the code in
-`src/game/Levels.ts`, to understand how JetLag works.  Then edit the first level
-of that file to start creating your game.
-
-To add images and sounds to JetLag, follow these steps:
-
-1. Copy the image or sound file into the assets folder
-2. Add the name of the file to the appropriate list in `src/game/myconfig.ts`
-
-That's it.  Once you follow those two steps, you can refer to the asset by its
-filename in your code.
 
 ## Documentation
 
