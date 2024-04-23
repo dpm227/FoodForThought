@@ -1,7 +1,9 @@
 ## FOOD FOR THOUGHT
-Demo here:
-<https://www.cse.lehigh.edu/~spear/eng5_2023/engr_005_fl_2023_N/>
-Developed in Introduction to Engineering Practice using Typescript, UNIX, and VS Code
+Demo here: <br />
+<https://www.cse.lehigh.edu/~spear/eng5_2023/engr_005_fl_2023_N/> <br />
+<br />
+Food for Throught was developed in Introduction to Engineering Practice using Typescript, UNIX, and VS Code. <br />
+It utilizes a game engine called JetLag. More information on JetLag can be found below.
 
 ## Mobile Game Programming for Fun and (non)Profit
 
