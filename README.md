@@ -1,4 +1,4 @@
-### FOOD FOR THOUGHT
+## FOOD FOR THOUGHT
 Demo here:
 <https://www.cse.lehigh.edu/~spear/eng5_2023/engr_005_fl_2023_N/>
 Developed in Introduction to Engineering Practice using Typescript, UNIX, and VS Code
